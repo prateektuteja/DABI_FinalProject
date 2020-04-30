@@ -1,1 +1,2 @@
 # DABI_FinalProject
+This repository contains final project materials for my course Data Architecture Design & Business Intelligence at Northeastern University, where I integrated data from www.imdb.com, https://movielens.org/ and https://www.boxofficemojo.com/ together and build a data warehouse to answer specific business requirements. Moreover, to answer business questions I build some dashboards on Power BI and Tableau.
